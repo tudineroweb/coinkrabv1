@@ -27,6 +27,7 @@ $ termux-setup-storage
 Instalar Modulo de AnyCaptcha (Install module Anycaptcha):
 
 > Registrase aca para optener su Api_key (REgister here for you Api_key): https://anycaptcha.com?referral=5172
+
 > Descargar en su telefono o PC el modulo (Download in your phoone or PC the Module): 
 
 $ git clone https://github.com/anycaptcha/anycaptcha-python.git
